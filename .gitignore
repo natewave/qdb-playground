@@ -1,0 +1,16 @@
+logs
+target
+/.idea
+/.idea_modules
+/.classpath
+/.project
+/.settings
+/RUNNING_PID
+.DS_Store
+project/target/
+project/project/
+.env
+.keystore.jks
+.truststore.jks
+.ensime
+.ensime_cache/
